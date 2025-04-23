@@ -1,0 +1,19 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Valuation Framework}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Comparable Company Analysis}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Intrinsic Valuation}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Fixed-Income Valuation}{3}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Capital Structure \& Cost of Capital}{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Capital Mix}{3}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Cost of Equity (CAPM)}{3}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Cost of Debt (after-tax)}{3}{section.3.3}%
+\contentsline {section}{\numberline {3.4}WACC}{4}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Performance \& Market Diagnostics}{4}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Return on Equity (ROE)}{4}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Beta Analysis}{4}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Market Price vs. Computed Fair Price}{4}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Portfolio Analysis}{4}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusions}{6}{chapter.6}%
+\contentsline {chapter}{\numberline {A}Additional Figures}{7}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Tables}{8}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Formulas}{8}{appendix.C}%

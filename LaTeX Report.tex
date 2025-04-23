@@ -11,13 +11,14 @@
 \usepackage{titlesec}
 \usepackage{wrapfig}
 \usepackage{enumitem}
-\usepackage{natbib}
-\usepackage{url}
+\usepackage[backend=biber,style=authoryear]{biblatex}
+\addbibresource{references.bib}
 \usepackage{hyperref}
 \usepackage{booktabs}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{textcomp}
+\hypersetup{pdfborder={0 0 0}}
 
 \setlist[itemize]{%
   itemsep=0.1em,
@@ -269,7 +270,6 @@ In sum, investors seeking capital appreciation and growth exposure will find Ora
 
 \clearpage
 \nocite{*}
-\bibliographystyle{apalike}
-\bibliography{references}
+\printbibliography
 
 \end{document}

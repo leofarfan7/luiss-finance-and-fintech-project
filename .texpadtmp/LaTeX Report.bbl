@@ -1,0 +1,453 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{luiss_spreadsheet_2025}{misc}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b4ceed921c92d10874bddbbc510ad250}{%
+           family={Alessandrelli},
+           familyi={A\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b30ce83a7f4c9c3827da7c117488e9f6}{%
+           family={Arrag},
+           familyi={A\bibinitperiod},
+           given={Yassir\bibnamedelima El},
+           giveni={Y\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8ec0c6a79728915ac6ff2f0f57caec2}{%
+           family={Tambini},
+           familyi={T\bibinitperiod},
+           given={Matilde},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb5e31ecbb4eaf6dc30075f77bfafa13}{%
+           family={Memedi},
+           familyi={M\bibinitperiod},
+           given={Shefik},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c77a234115227f505c1241d37e764dcd}{%
+           family={Rodriguez},
+           familyi={R\bibinitperiod},
+           given={Leonardo\bibnamedelima Farfan},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b64f248f0f41f11b8683395e4df88338}
+      \strng{fullhash}{d3ba3a8a2ca7ebfdb32d86f521ffa34c}
+      \strng{fullhashraw}{d3ba3a8a2ca7ebfdb32d86f521ffa34c}
+      \strng{bibnamehash}{b64f248f0f41f11b8683395e4df88338}
+      \strng{authorbibnamehash}{b64f248f0f41f11b8683395e4df88338}
+      \strng{authornamehash}{b64f248f0f41f11b8683395e4df88338}
+      \strng{authorfullhash}{d3ba3a8a2ca7ebfdb32d86f521ffa34c}
+      \strng{authorfullhashraw}{d3ba3a8a2ca7ebfdb32d86f521ffa34c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{Google Spreadsheet of LUISS Finance Computations}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://docs.google.com/spreadsheets/d/1ea_tl9gsPLgYV7OOIo8tIFwZHEj99s-UL9NrwMfrIXM/edit?usp=sharing
+      \endverb
+      \verb{url}
+      \verb https://docs.google.com/spreadsheets/d/1ea_tl9gsPLgYV7OOIo8tIFwZHEj99s-UL9NrwMfrIXM/edit?usp=sharing
+      \endverb
+    \endentry
+    \entry{investopedia_pe_ratio_nodate}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=abcdb78a564e00abcb81ee953f22cf04}{%
+           family={{Investopedia}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{abcdb78a564e00abcb81ee953f22cf04}
+      \strng{fullhash}{abcdb78a564e00abcb81ee953f22cf04}
+      \strng{fullhashraw}{abcdb78a564e00abcb81ee953f22cf04}
+      \strng{bibnamehash}{abcdb78a564e00abcb81ee953f22cf04}
+      \strng{authorbibnamehash}{abcdb78a564e00abcb81ee953f22cf04}
+      \strng{authornamehash}{abcdb78a564e00abcb81ee953f22cf04}
+      \strng{authorfullhash}{abcdb78a564e00abcb81ee953f22cf04}
+      \strng{authorfullhashraw}{abcdb78a564e00abcb81ee953f22cf04}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{Price-to-Earnings (P/E) Ratio: Definition, Formula, and Examples}
+      \field{year}{n.d.}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.investopedia.com/terms/p/price-earningsratio.asp
+      \endverb
+      \verb{url}
+      \verb https://www.investopedia.com/terms/p/price-earningsratio.asp
+      \endverb
+    \endentry
+    \entry{oracle_fy2024_summary_2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d51288dc67d9f5e0330d927a009e208b}{%
+           family={{Oracle Corporation}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Oracle Corporation}%
+      }
+      \strng{namehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{fullhash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{fullhashraw}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{bibnamehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authorbibnamehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authornamehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authorfullhash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authorfullhashraw}{d51288dc67d9f5e0330d927a009e208b}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{Oracle FY 2024 Financial Summary}
+      \field{type}{techreport}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://s23.q4cdn.com/440135859/files/doc_financials/2024/q4/4q24-pressrelease-June-final.pdf
+      \endverb
+      \verb{url}
+      \verb https://s23.q4cdn.com/440135859/files/doc_financials/2024/q4/4q24-pressrelease-June-final.pdf
+      \endverb
+    \endentry
+    \entry{oracle_official_history_nodate}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d51288dc67d9f5e0330d927a009e208b}{%
+           family={{Oracle Corporation}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{fullhash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{fullhashraw}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{bibnamehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authorbibnamehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authornamehash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authorfullhash}{d51288dc67d9f5e0330d927a009e208b}
+      \strng{authorfullhashraw}{d51288dc67d9f5e0330d927a009e208b}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{Oracle History, Financial \& Shareholder Information, Recent Developments}
+      \field{year}{n.d.}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.oracle.com/
+      \endverb
+      \verb{url}
+      \verb https://www.oracle.com/
+      \endverb
+    \endentry
+    \entry{pirelli_official_history_nodate}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6462d0cbc246974a8b92b7b9d0497684}{%
+           family={{Pirelli \& C. S.p.A.}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{fullhash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{fullhashraw}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{bibnamehash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{authorbibnamehash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{authornamehash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{authorfullhash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{authorfullhashraw}{6462d0cbc246974a8b92b7b9d0497684}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{Pirelli History, Financial \& Shareholder Information, Recent Developments}
+      \field{year}{n.d.}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.pirelli.com/global/en-ww/homepage/
+      \endverb
+      \verb{url}
+      \verb https://www.pirelli.com/global/en-ww/homepage/
+      \endverb
+    \endentry
+    \entry{pirelli_interim_reports_nodate}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6462d0cbc246974a8b92b7b9d0497684}{%
+           family={{Pirelli \& C. S.p.A.}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{fullhash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{fullhashraw}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{bibnamehash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{authorbibnamehash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{authornamehash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{authorfullhash}{6462d0cbc246974a8b92b7b9d0497684}
+      \strng{authorfullhashraw}{6462d0cbc246974a8b92b7b9d0497684}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{Pirelli Interim Financial Reports}
+      \field{year}{n.d.}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://corporate.pirelli.com/corporate/en-ww/investors/financial-publications/financial-reports
+      \endverb
+      \verb{url}
+      \verb https://corporate.pirelli.com/corporate/en-ww/investors/financial-publications/financial-reports
+      \endverb
+    \endentry
+    \entry{reuters_pirelli_tariffs_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7513717dba8b208fe06799dcc54e59e2}{%
+           family={{Reuters}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{fullhash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{fullhashraw}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{bibnamehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{authorbibnamehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{authornamehash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{authorfullhash}{7513717dba8b208fe06799dcc54e59e2}
+      \strng{authorfullhashraw}{7513717dba8b208fe06799dcc54e59e2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{Pirelli Works Counter Possible Tariffs, Expects 16\% EBIT Margin}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.reuters.com/business/autos-transportation/pirelli-works-counter-possible-tariffs-expects-16-ebit-margin-2025-02-26/
+      \endverb
+      \verb{url}
+      \verb https://www.reuters.com/business/autos-transportation/pirelli-works-counter-possible-tariffs-expects-16-ebit-margin-2025-02-26/
+      \endverb
+    \endentry
+    \entry{luiss_github_repo_2025}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c77a234115227f505c1241d37e764dcd}{%
+           family={Rodriguez},
+           familyi={R\bibinitperiod},
+           given={Leonardo\bibnamedelima Farfan},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b30ce83a7f4c9c3827da7c117488e9f6}{%
+           family={Arrag},
+           familyi={A\bibinitperiod},
+           given={Yassir\bibnamedelima El},
+           giveni={Y\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c080f007139b89c9e3df2adfc80d33fa}
+      \strng{fullhash}{c080f007139b89c9e3df2adfc80d33fa}
+      \strng{fullhashraw}{c080f007139b89c9e3df2adfc80d33fa}
+      \strng{bibnamehash}{c080f007139b89c9e3df2adfc80d33fa}
+      \strng{authorbibnamehash}{c080f007139b89c9e3df2adfc80d33fa}
+      \strng{authornamehash}{c080f007139b89c9e3df2adfc80d33fa}
+      \strng{authorfullhash}{c080f007139b89c9e3df2adfc80d33fa}
+      \strng{authorfullhashraw}{c080f007139b89c9e3df2adfc80d33fa}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{GitHub Repository: luiss-finance-and-fintech-project}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/leofarfan7/luiss-finance-and-fintech-project
+      \endverb
+      \verb{url}
+      \verb https://github.com/leofarfan7/luiss-finance-and-fintech-project
+      \endverb
+    \endentry
+    \entry{orcl_tradingview_income_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d8b354e370b96cc07a23aca7ec7910d}{%
+           family={{TradingView}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{fullhash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{fullhashraw}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{bibnamehash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{authorbibnamehash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{authornamehash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{authorfullhash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{authorfullhashraw}{4d8b354e370b96cc07a23aca7ec7910d}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{Oracle Corporation Income Statement, NYSE:ORCL}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.tradingview.com/symbols/NYSE-ORCL/financials-income-statement/
+      \endverb
+      \verb{url}
+      \verb https://www.tradingview.com/symbols/NYSE-ORCL/financials-income-statement/
+      \endverb
+    \endentry
+    \entry{pirc_tradingview_income_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d8b354e370b96cc07a23aca7ec7910d}{%
+           family={{TradingView}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{fullhash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{fullhashraw}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{bibnamehash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{authorbibnamehash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{authornamehash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{authorfullhash}{4d8b354e370b96cc07a23aca7ec7910d}
+      \strng{authorfullhashraw}{4d8b354e370b96cc07a23aca7ec7910d}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{PIRELLI \& C Income Statement, MIL:PIRC}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.tradingview.com/symbols/MIL-PIRC/financials-income-statement/
+      \endverb
+      \verb{url}
+      \verb https://www.tradingview.com/symbols/MIL-PIRC/financials-income-statement/
+      \endverb
+    \endentry
+    \entry{orcl_yahoo_finance_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=499dbe8b3f11dacd2b20335b6690a179}{%
+           family={{Yahoo! Finance}},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{fullhash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{fullhashraw}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{bibnamehash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{authorbibnamehash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{authornamehash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{authorfullhash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{authorfullhashraw}{499dbe8b3f11dacd2b20335b6690a179}
+      \field{extraname}{1}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{Oracle Corporation (ORCL) Stock Price, News, Quote \& History}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://finance.yahoo.com/quote/ORCL/
+      \endverb
+      \verb{url}
+      \verb https://finance.yahoo.com/quote/ORCL/
+      \endverb
+    \endentry
+    \entry{pircmi_yahoo_finance_2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=499dbe8b3f11dacd2b20335b6690a179}{%
+           family={{Yahoo! Finance}},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{fullhash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{fullhashraw}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{bibnamehash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{authorbibnamehash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{authornamehash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{authorfullhash}{499dbe8b3f11dacd2b20335b6690a179}
+      \strng{authorfullhashraw}{499dbe8b3f11dacd2b20335b6690a179}
+      \field{extraname}{2}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-20}
+      \field{title}{Pirelli \& C. S.p.A. (PIRC.MI) Stock Price, News, Quote \& History}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://finance.yahoo.com/quote/PIRC.MI/
+      \endverb
+      \verb{url}
+      \verb https://finance.yahoo.com/quote/PIRC.MI/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
