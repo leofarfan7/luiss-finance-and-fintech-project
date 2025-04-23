@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 APR 2025 05:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 APR 2025 05:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -814,15 +814,15 @@ Package logreq Info: Writing requests to '"LaTeX Report".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18511 strings out of 473190
- 325005 string characters out of 5715801
- 1158122 words of memory out of 5000000
- 41488 multiletter control sequences out of 15000+600000
+ 18512 strings out of 473190
+ 325022 string characters out of 5715801
+ 1159185 words of memory out of 5000000
+ 41489 multiletter control sequences out of 15000+600000
  616490 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,9n,81p,1444b,1294s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,9n,81p,1444b,1295s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on "/Users/leonardofarfan/MEGAsync/LUISS/06. Semester VI/Finance and Financial Technologies/Finance Project/.texpadtmp/LaTeX Report.pdf" (11 pages, 368935 bytes).
+Output written on "/Users/leonardofarfan/MEGAsync/LUISS/06. Semester VI/Finance and Financial Technologies/Finance Project/.texpadtmp/LaTeX Report.pdf" (11 pages, 368993 bytes).
 PDF statistics:
  302 PDF objects out of 1000 (max. 8388607)
  250 compressed objects within 3 object streams
